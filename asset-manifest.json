@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/0devcat0.github.io/deploy-react/static/css/main.421812dd.chunk.css",
-    "main.js": "/0devcat0.github.io/deploy-react/static/js/main.656455cd.chunk.js",
-    "main.js.map": "/0devcat0.github.io/deploy-react/static/js/main.656455cd.chunk.js.map",
-    "runtime~main.js": "/0devcat0.github.io/deploy-react/static/js/runtime~main.74c85262.js",
-    "runtime~main.js.map": "/0devcat0.github.io/deploy-react/static/js/runtime~main.74c85262.js.map",
-    "static/js/2.ef839f3f.chunk.js": "/0devcat0.github.io/deploy-react/static/js/2.ef839f3f.chunk.js",
-    "static/js/2.ef839f3f.chunk.js.map": "/0devcat0.github.io/deploy-react/static/js/2.ef839f3f.chunk.js.map",
-    "index.html": "/0devcat0.github.io/deploy-react/index.html",
-    "precache-manifest.061922ee5ae649ace509cf7f39fbf99c.js": "/0devcat0.github.io/deploy-react/precache-manifest.061922ee5ae649ace509cf7f39fbf99c.js",
-    "service-worker.js": "/0devcat0.github.io/deploy-react/service-worker.js",
-    "static/css/main.421812dd.chunk.css.map": "/0devcat0.github.io/deploy-react/static/css/main.421812dd.chunk.css.map",
-    "static/media/bg.png": "/0devcat0.github.io/deploy-react/static/media/bg.2810fe6b.png"
+    "main.css": "/deploy-react/static/css/main.421812dd.chunk.css",
+    "main.js": "/deploy-react/static/js/main.c2bcde60.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.c2bcde60.chunk.js.map",
+    "runtime~main.js": "/deploy-react/static/js/runtime~main.5bc430b9.js",
+    "runtime~main.js.map": "/deploy-react/static/js/runtime~main.5bc430b9.js.map",
+    "static/js/2.fa7882ad.chunk.js": "/deploy-react/static/js/2.fa7882ad.chunk.js",
+    "static/js/2.fa7882ad.chunk.js.map": "/deploy-react/static/js/2.fa7882ad.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.78c709608604a0932232c319e1664184.js": "/deploy-react/precache-manifest.78c709608604a0932232c319e1664184.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/css/main.421812dd.chunk.css.map": "/deploy-react/static/css/main.421812dd.chunk.css.map",
+    "static/media/bg.png": "/deploy-react/static/media/bg.2810fe6b.png"
   }
 }
